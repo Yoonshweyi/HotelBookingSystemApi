@@ -9,7 +9,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelBookingSystem.DBServic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelBookingSystem.Model", "HotelBookingSystem.Model\HotelBookingSystem.Model.csproj", "{C8B30A17-6479-49E5-B917-1EDA4BA2B90E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelBookingSystem.Shared", "HotelBookingSystem.Shared\HotelBookingSystem.Shared.csproj", "{F52559FF-ED20-4FC2-8BAB-650D1C6F77A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelBookingSystem.Shared", "HotelBookingSystem.Shared\HotelBookingSystem.Shared.csproj", "{F52559FF-ED20-4FC2-8BAB-650D1C6F77A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{80E22FAD-CBF7-47F7-84DD-FFAEFD71BBED}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Documents\script.sql = ..\..\Documents\script.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
